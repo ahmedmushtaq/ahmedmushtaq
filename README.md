@@ -1,16 +1,14 @@
-# Hi , I'm Ahmed Mushtaq 👋
+<h1 align="center">Hi 👋, I'm Ahmed Mushtaq</h1>
+<h3 align="center">A passionate Game Developer from Pakistan</h3>
 
-### A passionate Game developer from Pakistan
-
-- 🌱 I’m currently learning Advance Gaming concept  
+- 🌱 I’m currently learning **Advanced Gaming Concepts**  
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedmushtaq](https://github.com/ahmedmushtaq)  
-- 💬 Ask me about Game Engines & Game Development or any tech-related stuff  
-- 📫 How to reach me **ahmedmush1234@gmail.com**
+- 💬 Ask me about **Game Engines & Game Development** or any tech-related stuff  
+- 📫 Reach me at **ahmedmush1234@gmail.com**
 
 ---
 
 ### 🌐 Connect with me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mushtaq-8462b6136/" target="_blank" title="LinkedIn">
     <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
@@ -20,7 +18,6 @@
 ---
 
 ### ⚒️ Languages and Tools
-
 <p align="center">
   <a href="https://unity.com/" target="_blank" title="Unity"><img alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/></a>
   <a href="https://www.unrealengine.com/" target="_blank" title="Unreal Engine"><img alt="Unreal Engine" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/></a>
@@ -37,24 +34,33 @@
   <a href="#" target="_blank" title="Mobile"><img alt="Mobile" width="40px" src="https://cdn-icons-png.flaticon.com/512/15/15874.png"/></a>
 </p>
 
+<p align="center">
+Unity • Unreal Engine • VS Code • Visual Studio • Rider • Photoshop • Blender • Godot • Android • iOS • macOS • Windows • Mobile
+</p>
+
 ---
 
 ### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmushtaq&show_icons=true&theme=white)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmushtaq&layout=compact&theme=white)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmushtaq&theme=default)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmushtaq&show_icons=true&locale=en&layout=compact&theme=default" alt="Most Used Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmushtaq&show_icons=true&locale=en&theme=default" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmushtaq&theme=default" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ### 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ahmedmushtaq&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedmushtaq&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Count"/>
+</p>
 
 ---
 
 ### 💡 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
+</p>
