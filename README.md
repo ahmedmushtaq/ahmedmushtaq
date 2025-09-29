@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/ahmed-mushtaq-8462b6136/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-mushtaq-8462b6136/)
 
 ---
 
