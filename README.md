@@ -19,27 +19,14 @@
 
 ### ⚒️ Languages and Tools
 
-<table>
-  <tr>
-    <td><img alt="Android" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/></td>
-    <td><img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
-    <td><img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></td>
-    <td><img alt="Dart" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
-    <td><img alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
-  </tr>
-  <tr>
-    <td><img alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></td>
-    <td><img alt="Flutter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>
-    <td><img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
-    <td><img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></td>
-    <td><img alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></td>
-  </tr>
-  <tr>
-    <td><img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></td>
-    <td><img alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></td>
-    <td><img alt="Adobe XD" width="40px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"/></td>
-  </tr>
-</table>
+- <img alt="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/> **Unity**  
+- <img alt="Unreal Engine" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/> **Unreal Engine**  
+- <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> **Visual Studio Code**  
+- <img alt="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> **Visual Studio**  
+- <img alt="Rider" width="30px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"/> **JetBrains Rider**  
+- <img alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/> **Adobe Photoshop**  
+- <img alt="Blender" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/> **Blender**  
+- <img alt="Godot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/> **Godot**  
 
 ---
 
