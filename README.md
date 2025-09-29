@@ -35,17 +35,17 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmushtaq&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmushtaq&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmushtaq&theme=radical)  
 
 ---
 
 ### 👀 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=ahmedmushtaq&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
